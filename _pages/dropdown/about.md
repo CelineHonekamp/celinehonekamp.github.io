@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. PhD student
 
 profile:
   align: right
@@ -17,6 +17,11 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+I am a PhD student at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp) in the group for [Sensorimotor Control and Learning](https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/index.en.jsp). 
+
+I am interested in human motor control. More specifically my interests lies in proprioception and its role in adaptation, different illusions and general motor control. I want to understand how healthy humans use and rely on this sense to be able to find appropriate substituion mechanisms for example for prosthetics users.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
