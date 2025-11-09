@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Celine's Science Page # the website title (if blank, full name will be used instead)
+first_name: Celine
+middle_name: 
+last_name: Honekamp
+email: celine.honekamp@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -207,6 +207,11 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+
+show_projects: false # added this because of chatGPT for debugging
+show_people: false # added this because of chatGPT for debugging
+show_publications: false # added this because of chatGPT for debugging
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
