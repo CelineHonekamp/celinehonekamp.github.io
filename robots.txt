@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://celinehonekamp.github.io/al-folio/sitemap.xml
+Sitemap: https://celinehonekamp.github.io/sitemap.xml
