@@ -26,7 +26,7 @@ These courses include:
 
 An up-to-date list can be found on my [personal webpage from the university}(https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75712.en.jsp).
 
-### Thesis supervision*
+### Thesis supervision
 
 I also supervise both Bachelor and Master students in Cognitive Science for their thesis projects. So far I was involved in very different projects that focussed on different topics:
 
