@@ -24,7 +24,7 @@ These courses include:
 - Topics in Cognitive Science - (Topics in Multisensory Perception and Action)
 - Cognitive Science Master Project I
 
-An up-to-date list can be found on my [personal webpage from the university}(https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75712.en.jsp).
+An up-to-date list can be found on my [personal webpage from the university](https://www.psychologie.tu-darmstadt.de/sensorimotor/home_sensorimotor/people_sensorimotor/people_details_75712.en.jsp).
 
 ### Thesis supervision
 
