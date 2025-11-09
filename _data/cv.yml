@@ -21,7 +21,7 @@
       year: 2019-2022
       description:
         - Here I learned programming in MatLab for Data Acquisition (e.g. experimental programming) as well as data analysis (data preprocessing, motion capture, 
-        working with all kinds of movement data such as force plate data, motion capture data etc.)
+            working with all kinds of movement data such as force plate data, motion capture data etc.)
     
     - title: B.Sc. Physical Activity & Health
       institution: Justus Liebig University Giessen, Germany
@@ -96,7 +96,7 @@
       items:
         - Tactile feedback in reaching - encoding 2D reaching direction & distance
         - Tactile feedback as biofeedback of EMG control
-        - Tactile feednack in balancing
+        - Tactile feedback in balancing
 
 
 - title: Other Interests
