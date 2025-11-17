@@ -213,5 +213,12 @@
       "highlights": ["Balancing", "Sensory Substitutions", "Pointing and Reaching", "Prosthetics", "Biofeedback"],
       "startDate": "since 2023"
     }
+  ],
+  "volunteering": [
+    {
+      "name": "Summer School Co-Organization",
+      "summary": "I am supporting the organization of the International Interdisciplinary Computational Cognitive Science Summer School (IICCSSS)",
+      "startDate": "since 2022"
+    }
   ]
 }
