@@ -11,7 +11,7 @@ One of my passions in academia involves teaching. So far, I was lucky enough to 
 
 ### Teaching during my studies
 
-During my own studies I got insights into teaching EDV skills for first semester students of [Physical Activity and Health, B.Sc.](https://www.uni-giessen.de/en/study/courses/ba/pah/index?set_language=en) at Justus Liebig University Giessen. Here I introduced students to literature research as well as citation programs.
+During my own studies I got insights into teaching EDV skills for first semester students of [Physical Activity and Health, B.Sc.](https://www.uni-giessen.de/en/study/courses/ba/pah/index?set_language=en) at Justus Liebig University Giessen. Here I introduced students scientific working, including literature research as well as citation programs.
 
 ### Teaching during during my PhD
 
@@ -28,7 +28,7 @@ An up-to-date list can be found on my [personal webpage from the university](htt
 
 ### Thesis supervision
 
-I also supervise both Bachelor and Master students in Cognitive Science for their thesis projects. So far I was involved in very different projects that focussed on different topics:
+I also supervise both Bachelor (B.Sc.) and Master (M.Sc.) students in Cognitive Science and Psychology for their thesis projects. So far I was involved in very different projects in all degrees, foucssing on different topics:
 
 **Delay Adaptation:**
 - Repeated Exposures to Delays in Virtual Reality: Reward-Independent Tendencies Toward Visuomotor Recalibration (M.Sc. Psychology) – supervised by Celine Honekamp & Loes C.J. van Dam
