@@ -639,10 +639,12 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
+  - volunteering
   - awards
   - certificates
   - skills
   - languages
   - interests
   - references
+  - other interests
+
