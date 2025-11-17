@@ -209,7 +209,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 
-show_projects: false # added this because of chatGPT for debugging
+# show_projects: false # added this because of chatGPT for debugging
 show_people: false # added this because of chatGPT for debugging
 show_publications: false # added this because of chatGPT for debugging
 
