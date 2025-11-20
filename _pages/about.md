@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: fuck you tiago
+subtitle: don't feel stupid yet? maybe you don't science hard enough..
 
 profile:
   align: right
