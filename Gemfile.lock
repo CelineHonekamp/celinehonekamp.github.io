@@ -225,8 +225,9 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  loofah
   mini_racer
-  nokogiri
+  nokogiri (~> 1.16.0)
   unicode_utils
   webrick
 
