@@ -69,14 +69,16 @@
 #   #   year: 2015-now
 #    #  description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-        
-- title: Volunteering
-  type: time_table
-  contents:
-    - title: Co-Organizer Summer School
-      year: since 2022
-      description:
-        - Co-Organizer of Internat International Interdisciplinary Computational Cognitive Science Summer School [IICCSSS](https://www.iiccsss.org/)
+#- title: Honors and Awards
+#  #type: time_table
+#  #contents:
+#    #- year: 1921
+#     # items:
+#       # - Nobel Prize in Physics
+#        #- Matteucci Medal
+#    #- year: 2029
+#     # items:
+#       # - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
@@ -99,5 +101,5 @@
 - title: Other Interests
   type: list
   contents:
-    - "Hobbies: Fitness studio, Tennis, Watching Movies, Climbing"
-    - "Music: Metalcore, Hardcore, Drum and Bass, Dubstep, etc."
+    - <u>Hobbies:</u> Fitness studio, Tennis, Watching Movies, Climbing
+    - <u>Music:</u> Metalcore, Hardcore, Drum and Bass, Dubstep, etc.
