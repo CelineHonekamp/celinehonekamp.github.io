@@ -26,4 +26,6 @@ group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'loofah'
+    gem 'nokogiri', '~> 1.16.0', platforms: [:ruby]
 end
