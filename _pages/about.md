@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: If you don't feel stupid doing science - you are doing it wrong
+subtitle: fuck you tiago
 
 profile:
   align: right
