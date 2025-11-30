@@ -32,9 +32,11 @@ I am interested in multisensory perception and action.
 As you can see this webpage is currently being built, so stay tuned for a progressing homepage!
 
 Currently, the following pages are somewhat working/ already updated:
-- about (obviously
+- about (obviously)
 - teaching
 - CV (not the pdf download though)
+- socials
+- publications (posters missing)
 
 The socials on the bottom do not work yet 
 
