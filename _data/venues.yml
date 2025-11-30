@@ -1,15 +1,15 @@
-"InflammationEmotion":
+InflammationEmotion:
   color: "#Ab784E"
-  
-"VisualPattern":
+
+VisualPattern:
   color: "#006E33"
 
-  "AJP":
+AJP:
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"PhysRev":
+PhysRev:
   url: https://journals.aps.org/
 
-"Vision":
+Vision:
   color: "#009f36"
