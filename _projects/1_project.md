@@ -1,22 +1,38 @@
 ---
 layout: page
 title: project 1 - delay adaptation
-description: with background image
+description: repeated delay adaptation
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Example Text 1
+Our everyday lives revolve around technology. Pressing buttons, tapping on screens, typing on keyboards, or using joysticks each interaction involves motor actions and some sort of temporal delay before the cause of the action shows.
 
+Depending on the type of operation, the delay can be substantial — as in certain teleoperation systems — or so small that it becomes unnoticeable.
+
+The fact that we humans are able to use these technologies effortlessly proves that we can deal with these delays.
+
+Literature has shown, that re-adapting to the same disruption multiple times shows benefits for subsequent adaptations (e.g. a speed up of learning). Interleaving the adaptation with none-disrupted phases, these phases also seem to show altered behavior - something that is known as "after-effects". 
+
+I am especially interested in investigating how humans learn to deal with those temporal offsets between actions and their effects in the world.
+
+For this, I have utilized both screen-based and virtual reality experiments. In screen-based (1D & 2D), and virtual-reality (3D) experiments I focussed on interception as well as continuous tracking tasks. 
+
+Looking into the influence of different time courses, I also investigated repeatedly adapting to the same delay within a session as well as over multiple sessions. My focus is on keeping the single delay exposures relatively short (30-90 s) to prove that even short time intervals are already enough to enable adaptation. 
+
+These experiments are currently in different states of progress, ranging from being written up, data analysis and data collection. I will post updates on the progress here and tag the first paper the moment its published.
+
+
+{% comment %}
     ---
     layout: page
     title: project
     description: example description here
     img: /assets/img/12.jpg
     ---
-{% comment %}
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -40,8 +56,6 @@ Example Text 1
     This image can also have a caption. It's like magic.
 </div>
 {% endcomment %}
-
-Example Text 2
 
 {% comment %}
 <div class="row justify-content-sm-center">
