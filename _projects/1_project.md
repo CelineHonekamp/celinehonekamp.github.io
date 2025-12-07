@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1 - delay adaptation
+title: Project 1 - Delay Adaptation
 description: repeated delay adaptation
 img: assets/img/BubblePunch4.png
 importance: 1
