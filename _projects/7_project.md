@@ -1,81 +1,30 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Project 2 - Visual Patterns
+description: Visuomotor Control and repetitive high-contrast patterns
 img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+# Zebras and their stripes
+Zebras are prey animals, just like deer or antilopes. However, their fur displays a high-contrast stripe pattern, making them seamingly easy to spot for predators. Deers and antilopes are covered in brown fur, trying to camouflage into their surrounding.
+So why is zebra's fur so bold?
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Scientists discovered, that when having a stationary high-contrast striped pattern on an object that moves, our visual system gets confused in estimating the movement speed and direction of the object. Ever since, many experiments have been conducted where different kind of target tracking or target intercepting tasks have been applied. The results are ambiguous - which might result from the high variety of different paradigms and parameter settings (movement speed, stripe frequency, stripe count etc). However, the studies that did find effects reported systematic performance errors that were determined by the stripe orientation relative to the object movement direction. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Picking up on that - I am interested in whether this effect - referred to as  *Motion Dazzle* - still persists when the pattern is not on the target but on the human controlled cursor item. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Its an open question whether combining the *dazzled* visual information with proprioceptive information will still lead to these systematic performance errors or whether the effect diminishes. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+I have presented a poster at the *European Conference on Visual Perception 2024* (Moton Dazzle and Moton-Induced Positon Shit on cursor representaton: Behavioral effects in pointng movements). 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+# Humans in architecural structures
+I hope that I could convince you that high contrast patterns, like stripes, do mess with our visuomotor control system. However, in architecture, creating patterns by e.g. playing with light and shadow is a widely used feature. 
+Only few research has investigated how and if behavior, such as walking, is affected by the surrounding architectural features. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+One of the these research studies, me and colleagues conducted in virtual-reality (VR), letting people walk over virtual bridge with different patterns. We could demonstrate, that putting different kind of patterns does alter different biomechanical properties of the gait. 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+We were lucky to publish this work [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11359677/).
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
