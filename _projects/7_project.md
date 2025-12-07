@@ -2,7 +2,7 @@
 layout: page
 title: Project 2 - Visual Patterns
 description: Visuomotor Control and repetitive high-contrast patterns
-img: assets/img/4.jpg
+img: assets/img/BridgeImage.png
 importance: 1
 category: work
 related_publications: true
