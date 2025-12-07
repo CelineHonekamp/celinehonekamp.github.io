@@ -2,7 +2,7 @@
 layout: page
 title: project 1 - delay adaptation
 description: repeated delay adaptation
-img: assets/img/12.jpg
+img: assets/img/BubblePunch4.png
 importance: 1
 category: work
 related_publications: true
